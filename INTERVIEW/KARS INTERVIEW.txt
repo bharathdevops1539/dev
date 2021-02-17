@@ -1,0 +1,21 @@
+what is git starh.
+
+jenkines architecture
+
+what is CIDR block in vpc
+
+what is security groups
+
+what is subnets
+
+explain zero downtime deployment
+
+in python scripting how to start and stop EC2 machine
+
+how to check running docker containers
+
+explain docker client ,docker image
+
+why use docker
+
+how to link multi container

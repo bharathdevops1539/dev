@@ -1,0 +1,59 @@
+Differenrs between git and svn
+
+How to secure jenkins
+
+Types of job in jenkins
+
+What is maven project in jenkins
+
+Differenrs between declarative pipeline and scripted pipeline
+
+How to pass variables in jenkins
+
+How to configure jenkins with nexus
+
+How to configure jenkins with sonar qube
+
+What is continues integration
+
+What is continues delivery and continues deployment
+
+How to configure ansible with jenkins
+
+How to download plugins jenkins
+
+What is global tool configuration in jenkins
+
+What is configure system in jenkins
+
+How to restrict access in jenkins
+
+How to take back up in jenkins
+
+How to setup jenkins
+
+Why we need jenkins
+
+Why we need devops
+
+Devops benefits
+
+Devops roles and responsibilities
+
+Branching strategy in git
+
+Pom.xml explanation
+
+Types of repositories in nexus
+
+Types of Respositaries in maven
+
+Maven life cycle
+
+Merge vs rebase
+
+What is cherrypick
+
+What is Qualify profile in sonar qube
+
+What is Quality gate in sonar qube
